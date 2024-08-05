@@ -19,12 +19,9 @@ Curso preparatório às atividades relacionadas ao projeto
 
 ### Site do curso - onde está o seu material de estudos
 
-- [Introdução ao R](https://bmclima.github.io/cursoRBasico/)
-
 - [Vídeos explicativos](https://www.youtube.com/embed/videoseries?si=CH65P8HQvyPqIdca&list=PLczEXt1zhB1Rn7BVa6SaV-KtCDL-Cecyc)
 
 - [Projeto na Posit Cloud](https://posit.cloud/content/8482360)
-
 
 ### Apostila e Slides
 
